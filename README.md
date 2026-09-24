@@ -9,11 +9,13 @@ Automatically synced from LeetCode using LeetHub v2.
 | ------- |
 | [0001-two-sum](https://github.com/nachiketa11/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/nachiketa11/Leetcode-solutions/tree/master/0268-missing-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nachiketa11/Leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nachiketa11/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/nachiketa11/Leetcode-solutions/tree/master/0268-missing-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nachiketa11/Leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nachiketa11/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
